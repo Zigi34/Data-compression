@@ -1,1 +1,3 @@
 KOD/bin/.gitignore
+.metadata/
+RemoteSystemsTempFiles/
